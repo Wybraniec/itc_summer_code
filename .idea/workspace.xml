@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dcf56e9-61ab-4b97-b065-f308023e9909" name="Default" comment="Day 2 Commit. 100% reached.">
+    <list default="true" id="8dcf56e9-61ab-4b97-b065-f308023e9909" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/UserTest.java" afterPath="$PROJECT_DIR$/src/test/java/UserTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="itc_summer_code.iws" />
@@ -9,7 +10,7 @@
     <file path="/User.java" changelist="8dcf56e9-61ab-4b97-b065-f308023e9909" time="1372673782798" ignored="false" />
     <file path="/fragment.java" changelist="8dcf56e9-61ab-4b97-b065-f308023e9909" time="1372673911424" ignored="false" />
     <file path="/UserTest.java" changelist="8dcf56e9-61ab-4b97-b065-f308023e9909" time="1372751133542" ignored="false" />
-    <file path="/Dummy.txt" changelist="8dcf56e9-61ab-4b97-b065-f308023e9909" time="1372751657838" ignored="false" />
+    <file path="/Dummy.txt" changelist="8dcf56e9-61ab-4b97-b065-f308023e9909" time="1372752046900" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +104,7 @@
       <file leaf-file-name="UserTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/UserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="8" selection-start="752" selection-end="752" vertical-scroll-proportion="1.1179138">
+            <state line="5" column="29" selection-start="180" selection-end="180" vertical-scroll-proportion="0.19274376">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -572,7 +573,11 @@
       <created>1372751572429</created>
       <updated>1372751572429</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 2 Commit. 100% reached.">
+      <created>1372752063002</created>
+      <updated>1372752063002</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -755,7 +760,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/UserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="8" selection-start="752" selection-end="752" vertical-scroll-proportion="1.1179138">
+        <state line="5" column="29" selection-start="180" selection-end="180" vertical-scroll-proportion="0.19274376">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
